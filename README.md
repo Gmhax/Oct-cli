@@ -65,8 +65,6 @@ sudo wg
 
 5. Execute:
 ```
-chmod +x setup.sh
-./setup.sh
 ./octra_wallet
 ```
 
