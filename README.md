@@ -29,11 +29,12 @@ git
 - Go to WireGuard config generator
 - Follow this guide below
 <img width="1062" height="591" alt="image" src="https://github.com/user-attachments/assets/5ccaf217-03a2-46d3-9871-a62b5f3bea65" />
+
 - Save the format. 
 
 
 
-- Create config file
+4. Create config file
 ```
 nano wg0.conf
 ```
@@ -52,7 +53,7 @@ sudo wg-quick up wg0
 sudo wg
 ```
 
-4. Execute:
+5. Execute:
 ```
 chmod +x setup.sh
 ./setup.sh
