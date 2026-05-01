@@ -22,6 +22,16 @@ build-essential \
 git
 ```
 
+- Try to Execute
+```
+chmod +x setup.sh
+./setup.sh
+./octra_wallet
+```
+
+- Ctr+C 
+- proceed to vpn setup
+
 3. Setup VPN (Proton WireGuard)
 - Step A: Download .conf gikan Proton VPN
 - Register: [https://account.protonvpn.com](https://account.protonvpn.com/downloads)
