@@ -60,7 +60,7 @@ chmod +x setup.sh
 ./octra_wallet
 ```
 
-
+# D    O      N     E         N    I     G    G    A
 
 
 
