@@ -38,7 +38,7 @@ git
 ```
 nano wg0.conf
 ```
-- Paste imong Proton WireGuard config
+- Paste Proton WireGuard config
 - Don’t need DNS in Linux setup, disable it using #
 
 ## Move config to WireGuard folder
